@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Abhishek Nayak
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,35 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Graduate Assistant Research
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Texas A&M Transportation Institute
+  url: "https://tti.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
+- Computer vision
+- Autonomous vehicles
+- Algorithms
+- Multi-agent path planning
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Machine learning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Mechanical Engineering
+    institution: Texas A&M University
+    year: 2021
+  - course: MS in Mechanical Engineering
+    institution: Texas A&M University
+    year: 2019
+  - course: BTech in Mechanical Engineering
+    institution: Texas A&M University
+    year: 2014
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -47,13 +50,13 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/nykabhishek
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?user=1jTDYzQAAAAJ&hl
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/nykabhishek
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +73,8 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hi I’m Abhishek Nayak. I’m a doctoral student in the department of Mechanical Engineering at Texas A&M University, College Station. My current research deals with enabling “perception” in autonomous vehicles, smart infrastructures and deploying vision based control. I’m passionate about Automobiles and road safety, and am working towards improving the safety standards for road transportation!
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Since Fall 2017, I’ve been part of the Autonomous Systems Laboratory and CAST group at Texas A&M University, working under Dr. Sivakumar Rathinam and Dr. Swaminathan Gopalswamy. I received my Master of Science degree in Dec 2019 and my thesis work was on developing vision-based response of autonomous vehicles towards emergency vehicles using infrastructure enabled autonomy. More details of this project can be found in the Projects section. Prior to joining Texas A&M, I was working as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for design and development of cylinderhead and valve train parts.
+
+In my free-time I enjoy watching and playing soccer, cooking, hiking and travelling.
