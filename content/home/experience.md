@@ -18,11 +18,11 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Graduate Research Assistant"
+  company = "Texas A&M Transportation Institute (TTI)"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "College Station, TX"
+  date_start = "2018-01-01"
   date_end = ""
   description = """
   Responsibilities include:
@@ -33,21 +33,21 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Student Technician"
+  company = "Texas A&M Engineering Experiment Station"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
+  location = "College Station"
+  date_start = "2017-08-22"
+  date_end = "2017-12-31"
   description = """Taught electronic engineering and researched semiconductor physics."""
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Member R&D - Engines"
+  company = "TVS Motor Company"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Hosur, TN, India"
+  date_start = "2014-08-27"
+  date_end = "2017-08-21"
   description = """
   Responsibilities include:
   
@@ -57,34 +57,15 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "Research Intern"
+  company = "TVS Motor Company"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  location = "Hosur, TN, India"
+  date_start = "2013-07-01"
+  date_end = "2013-07-30"
   description = """
   Responsibilities include:
-  
   * Analysing
-  * Modelling
-  * Deploying
-  """
-
-
-[[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
   """
 
 +++
