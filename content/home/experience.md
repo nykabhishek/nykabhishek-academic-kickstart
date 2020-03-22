@@ -41,7 +41,7 @@ date_format = "Jan 2006"
   description = """
   Projects:
 
-  * Development of autonomous d
+  * Development of autonomous driving capability on a Ford Focus
   * Infrastructure Enabled Autonomy (IEA)
   """
 
