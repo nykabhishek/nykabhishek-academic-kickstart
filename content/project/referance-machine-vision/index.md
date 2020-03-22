@@ -9,7 +9,7 @@ date: "2019-01-01"
 external_link: ""
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Photo by Autonomous Group
   focal_point: Smart
 
 links:
