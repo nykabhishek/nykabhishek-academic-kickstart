@@ -18,7 +18,8 @@ organizations:
   url: "https://tti.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Computer vision, Autonomous vehicles, Algorithms, Multi-agent path planning, Artificial Intelligence, Machine learning.
+
 
 interests:
 - Computer vision
@@ -57,11 +58,14 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/nykabhishek
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/nykabhishek/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
