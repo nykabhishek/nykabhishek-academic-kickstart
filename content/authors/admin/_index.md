@@ -38,7 +38,7 @@ education:
     institution: Texas A&M University
     year: 2019
   - course: BTech in Mechanical Engineering
-    institution: Texas A&M University
+    institution: National Institute of Technology Karnataka (NITK), Surathkal
     year: 2014
 
 # Social/Academic Networking
