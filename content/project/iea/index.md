@@ -1,6 +1,6 @@
 ---
 title: Infrastructure Enabled Autonomy (IEA)
-summary: "The objective of this project is to develop a distributed intelligence architecture for connected autonomous vehicles by offloading core computational functionalities to the infrastructure. I set up the DSRC communication network for V2V, V2I, and I2I, and developed machine vision capabilities for on-road object detection, tracking, camera/vision assisted SLAM on the smart-infrastructure to enable autonomy in vehicles. All the above techniques were developed on Python, C++, and implemented using ROS.
+summary: "The objective of this project is to develop a distributed intelligence architecture for connected autonomous vehicles by offloading core computational functionalities to the infrastructure. I set up the DSRC communication network for V2V, V2I, and I2I, and developed machine vision capabilities for on-road object detection, tracking, camera/vision assisted SLAM on the smart-infrastructure to enable autonomy in vehicles. All the above techniques were developed on Python, C++, and implemented using ROS."
 tags:
 - Autonomous Vehicles
 - Computer Vision
