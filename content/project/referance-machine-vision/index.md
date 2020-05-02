@@ -9,14 +9,14 @@ date: "2019-01-01"
 external_link: ""
 
 image:
-  caption: Photo by Autonomous Group
+  caption: Photo by Autonomous Systems Laboratory
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://www.linkedin.com/in/nykabhishek/
 url_code: ""
 url_pdf: ""
 url_slides: ""

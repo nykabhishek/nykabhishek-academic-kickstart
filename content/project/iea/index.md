@@ -15,10 +15,10 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/nykabhishek
+  url: https://www.linkedin.com/in/nykabhishek/
 url_code: ""
 url_pdf: ""
 url_slides: ""
