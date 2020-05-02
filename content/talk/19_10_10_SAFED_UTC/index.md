@@ -1,23 +1,23 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
+title: Invited talk - Referance Machine Vision for ADAS Functions
+event: Safe-D UTC Graduate Student Leadership Development Seminars
 event_url: https://example.org
 
-location: Source Themes HQ
+location: Zachry Engineering Education Complex
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 125 Spence St
+  city: College Station
+  region: TX
+  postcode: '77843'
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: "Presented my research and how the Safe-D UTC has supported my research activities at Texas A&M University, to the current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-10-10T17:30:00Z"
+date_end: "2019-10-10T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -34,10 +34,10 @@ image:
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://www.linkedin.com/in/nykabhishek/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -56,7 +56,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- rmv
 
 # Enable math on this page?
 math: true
