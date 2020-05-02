@@ -1,14 +1,14 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: Poster presentation - Response of Autonomous Vehicles to Emergency Vehicles
+event:  CSCRS Safe Systems Summit 2019
+event_url: https://www.roadsafety.unc.edu/summit/
 
-location: Source Themes HQ
+location: Durham Convention Center
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 301 W Morgan St
+  city: Durham
+  region: NC
+  postcode: '27701'
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
@@ -16,8 +16,8 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-04-23T17:00:00Z"
+date_end: "2019-04-23T19:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -29,15 +29,19 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
+
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: ""
   focal_point: Right
 
 links:
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://www.linkedin.com/in/nykabhishek/
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -48,7 +52,8 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
+# slides: example
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -56,7 +61,7 @@ slides: example
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-- internal-project
+- ravev
 
 # Enable math on this page?
 math: true
