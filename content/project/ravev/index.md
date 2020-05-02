@@ -12,7 +12,7 @@ date: "2018-01-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by Autonomous
+  caption: Photo by Autonomous Systems Laboratory
   focal_point: Smart
 
 links:

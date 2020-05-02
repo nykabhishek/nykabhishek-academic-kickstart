@@ -11,7 +11,7 @@ date: "2017-08-27T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Photo by CAST
+  caption: Photo by Autonomous Systems Laboratory
   focal_point: Smart
 
 links:
