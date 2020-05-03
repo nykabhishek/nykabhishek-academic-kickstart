@@ -27,7 +27,7 @@ authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   # caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -63,5 +63,5 @@ projects:
 math: true
 ---
 
-{{< figure src="nayak_seminar.jpg" title="A caption" lightbox="true" >}}
+{{< figure src="nayak_seminar.jpg" title="Event Flyer" lightbox="true" >}}
 
