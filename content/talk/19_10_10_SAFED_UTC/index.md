@@ -12,7 +12,7 @@ address:
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Presented my research and how the Safe-D UTC has supported my research activities at Texas A&M University, to the current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University."
+abstract: "Presented my research and how the Safe-D UTC has supported my research activities at Texas A&M University, to the current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University." {{< figure src="nayak_seminar.jpg" title="" lightbox="true" >}}
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -48,7 +48,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.

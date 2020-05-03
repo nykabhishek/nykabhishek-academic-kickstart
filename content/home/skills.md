@@ -25,6 +25,18 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Matlab"
+  description = "100%" 
+
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "TensorFlow"
+  description = "100%" 
   
 [[feature]]
   icon = "camera-retro"
