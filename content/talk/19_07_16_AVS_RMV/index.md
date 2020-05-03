@@ -16,9 +16,9 @@ abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-10-10T13:00:00Z"
-date_end: "2019-10-10T15:00:00Z"
-all_day: true
+date: "2019-10-10T17:30:00Z"
+date_end: "2019-10-10T19:00:00Z"
+all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
