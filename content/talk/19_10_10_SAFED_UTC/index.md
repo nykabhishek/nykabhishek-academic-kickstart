@@ -12,7 +12,7 @@ address:
   country: United States
 
 summary: An example talk using Academic's Markdown slides feature.
-abstract: "Presented my research and how the Safe-D UTC has supported my research activities at Texas A&M University, to the current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University. <br><img src='/static/img/nayak_seminar.jpg'>"
+abstract: "Presented my research and how the Safe-D UTC has supported my research activities at Texas A&M University, to the current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -71,5 +71,7 @@ Slides can be added in a few ways:
 - **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
 - **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
+
+{{< figure src="image.jpg" title="A caption" lightbox="true" >}}
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
