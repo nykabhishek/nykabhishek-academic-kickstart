@@ -83,11 +83,10 @@ user_groups:
 
 <div style="text-align: justify">
 
-Hi I’m Abhishek Nayak. I’m a doctoral student in the department of Mechanical Engineering at Texas A&M University, College Station. My current research deals with enabling “perception” in autonomous vehicles, smart infrastructures and deploying vision based control. I’m passionate about Automobiles and road safety, and am working towards improving the safety standards for road transportation!
+Hi I’m Abhishek Nayak. I’m a doctoral student in the department of Mechanical Engineering at Texas A&M University, College Station. I am broadly interested in vision-based methods for vehicle percepttion, learning-based approaches for combinatorial optimization, vehicle motion planning and control, and Multi-agent path planning algorithms. I’m passionate about Automobiles and road safety, and am currently working on projects that aim towards improving the safety standards for road transportation!
 
 Since Fall 2017, I’ve been part of the Autonomous Systems Laboratory and CAST group at Texas A&M University, working with Dr. Sivakumar Rathinam and Dr. Swaminathan Gopalswamy. I received my Master of Science degree in Dec 2019 and my thesis work was on developing vision-based response of autonomous vehicles towards emergency vehicles using infrastructure enabled autonomy. More details of this project can be found in the Projects section. Prior to joining Texas A&M, I was working as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for design and development of cylinderhead and valve train parts.
 
-In my free-time I enjoy soccer, tennis, cooking, hiking and travelling.
-
+In my free-time I enjoy playing soccer, tennis, cooking, hiking and travelling.
 
 </div>

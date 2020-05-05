@@ -1,7 +1,7 @@
 ---
 title: Invited talk - Referance Machine Vision for ADAS Functions
 event: Safe-D UTC Graduate Student Leadership Development Seminars
-event_url: https://example.org
+event_url: ""
 
 location: Zachry Engineering Education Complex
 address:
@@ -11,8 +11,8 @@ address:
   postcode: '77843'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: "Presented my research and how the Safe-D UTC has supported my research activities at Texas A&M University, to the current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University."
+summary: A brief on my activites as a Researcher at TTI.
+abstract: "Presented my research work, and talked on how the Safe-D UTC has supported my research activities at Texas A&M University. The audience mainly consisted of current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
