@@ -18,7 +18,7 @@ organizations:
   url: "https://tti.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer vision, Autonomous vehicles, Algorithms, Multi-agent path planning, Artificial Intelligence, Machine learning.
+bio: My research interests include Computer vision, Autonomous vehicles, Algorithms, Multi-agent path planning, Artificial Intelligence and Machine learning.
 
 
 interests:
