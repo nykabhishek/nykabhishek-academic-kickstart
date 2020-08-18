@@ -41,13 +41,16 @@ slides: ""
     The objective of this project is to explore an ideal response action of an autonomous vehicle towards response vehicles in emergency scenarios using vision, sound and other sensors. I developed vision-based algorithms to reliably detect and track emergency vehicles from a video feed using image processing, machine learning, deep neural networks and other computer vison techniques.
 </p>
 <p>
-    <b><a href="https://sites.google.com/tamu.edu/ravev/" target="_blank">Project Website</a></b> 
+    <b><a href="https://sites.google.com/tamu.edu/ravev/" target="_blank">Visit Project Website</a></b> 
 </p>
 <p> 
     Follow this <a href="https://www.vtti.vt.edu/utc/safe-d/index.php/projects/response-of-autonomous-vehicles-to-emergency-response-vehicles/" target="_blank">link</a> to view the project on Safe-D Website.
 </p>
 <p>
-    This is a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
+    This was a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
+</p>
+<p>
+    The final report of the project can be viewed <a href="https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2020/06/03-051_FinalResearchReport_Final.pdf" target="_blank">here</a>.
 </p>
 <p>
     <h4>References:</h4>
@@ -58,21 +61,21 @@ slides: ""
 
 <p style="text-align:justify;"> 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <b>Emergency Vehicle (EV) detection:</b> This video shows the emergency vehicles being detected by the trained YOLO-v3 object detector.
+    <small> <b>Emergency Vehicle (EV) detection:</b> This video shows the emergency vehicles being detected by the trained YOLO-v3 object detector.</small>
 </p>
 
 <p style="text-align:justify;"> 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <b> RAVEV - Hidden line of sight </b>This video shows the response by an autonomous vehicle when being followed by an EV with an obscured line of sight. This video was collected at RELLIS campus facility of Texas A&M University. 
+    <small> <b> RAVEV - Hidden line of sight </b>This video shows the response by an autonomous vehicle when being followed by an EV with an obscured line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </small>
 </p>
 
 
 <p style="text-align:justify;"> 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <b> RAVEV - Clear line of sight: </b> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. 
+    <small> <b> RAVEV - Clear line of sight: </b> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </small>
 </p>
 
 <p style="text-align:justify;"> 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <b> High-speed lane change:</b> This video shows in action the high speed vehicle controller developed as a part of the RAVEV project. This video was collected at RELLIS campus facility of Texas A&M University.
+    <small> <b> High-speed lane change:</b> This video shows in action the high speed vehicle controller developed as a part of the RAVEV project. This video was collected at RELLIS campus facility of Texas A&M University. </small>
 </p>
