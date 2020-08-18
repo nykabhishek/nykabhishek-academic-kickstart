@@ -20,10 +20,10 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/nykabhishek/
-url_code: ""
+url_code: "https://github.com/nykabhishek/RAVEV"
 url_pdf: ""
 url_slides: ""
-url_video: "https://www.youtube.com/embed/ILjxfTvve_M"
+url_video: "https://www.youtube.com/watch?v=gh0g5iAuruw"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
@@ -60,13 +60,11 @@ slides: example
     <br>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.
 </p>
 
-<p>
+<p class="aligncenter">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <body>
     <h2> RAVEV - Clear line of sight </h2>
