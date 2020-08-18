@@ -36,7 +36,7 @@ slides: example
     <b>Location:</b> <a href="https://cast.tamu.edu/" target="_blank">CAST Program</a>, Texas A&M University - College Station, TX
 </p>
 
-<p>
+<p style="text-align:justify;">
     <b>Abstract:</b>
     IEA is a new paradigm in Autonomous Vehicle technology that looks at offloading the core computational capabilities of awareness generation and path planning from the vehicle out onto Smart Roadside Units equipped with various sensors.
     Through this distributed setup IEA provides a solution of shared liabilities by transferring the primary responsibility of localization from vehicle to infrastructure which in-turn enables of greater situational awareness of the area under the purview of IEA.
@@ -60,17 +60,17 @@ slides: example
     </ol>
 </p>
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/s4xNCPnUPRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/s4xNCPnUPRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/eOoPIvJhj3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/eOoPIvJhj3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/iMSxPE9c2QQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/iMSxPE9c2QQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7MCkzDjaPPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/7MCkzDjaPPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 <p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/X9t4WEsonf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/X9t4WEsonf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
