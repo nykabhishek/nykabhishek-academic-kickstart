@@ -60,12 +60,20 @@ slides: example
 <p style="text-align:justify;"> 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <b>Emergency Vehicle (EV) detection:</b> This video shows the emergency vehicles being detected by the trained YOLO-v3 object detector.
- </p>
+</p>
 
-<h5> RAVEV - Hidden line of sight </h5>
-<p style="text-align:justify;"> This video shows the response by an autonomous vehicle when being followed by an EV with an obscured line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p style="text-align:justify;"> 
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <b> RAVEV - Hidden line of sight </b>This video shows the response by an autonomous vehicle when being followed by an EV with an obscured line of sight. This video was collected at RELLIS campus facility of Texas A&M University. 
+</p>
 
-<h5> RAVEV - Clear line of sight </h5>
-<p style="text-align:justify;"> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<p style="text-align:justify;"> 
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <b> RAVEV - Clear line of sight: </b> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. 
+</p>
+
+<p style="text-align:justify;"> 
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <b> High-speed lane change:</b> This video shows in action the high speed vehicle controller developed as a part of the RAVEV project. This video was collected at RELLIS campus facility of Texas A&M University.
+</p>
