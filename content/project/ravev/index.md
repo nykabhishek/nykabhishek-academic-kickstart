@@ -30,16 +30,15 @@ url_video: "https://www.youtube.com/watch?v=gh0g5iAuruw"
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
-<p>
+<!-- <p>
     <b>Location:</b> Texas A&M Transportation Institute (TTI) - College Station, TX
-</p>
+</p> -->
 <p>
-    <b>Abstract:</b>
-    The objective of this project is to explore an ideal response action of an autonomous vehicle towards response vehicles in emergency scenarios using vision, sound and other sensors. 
-    I developed vision-based algorithms to reliably detect and track emergency vehicles from a video feed using image processing, machine learning, deep neural networks and other computer vison techniques. 
+    <h4>Abstract:</h4>
+    The objective of this project is to explore an ideal response action of an autonomous vehicle towards response vehicles in emergency scenarios using vision, sound and other sensors. I developed vision-based algorithms to reliably detect and track emergency vehicles from a video feed using image processing, machine learning, deep neural networks and other computer vison techniques.
 </p>
 <p>
     <b><a href="https://sites.google.com/tamu.edu/ravev/" target="_blank">Project Website</a></b> 
@@ -51,7 +50,7 @@ slides: example
     This is a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
 </p>
 <p>
-    <b>References:</b>
+    <h4>References:</h4>
     <br>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.
 </p>
 
