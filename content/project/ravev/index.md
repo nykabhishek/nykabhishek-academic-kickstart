@@ -59,7 +59,7 @@ slides: ""
 
 <h4> <b>Videos:</b> </h4>
 
-<p style="text-align:justify;" style="line-height:90%"> 
+<p style="text-align:justify; line-height:80%" > 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <small> <b>Emergency Vehicle (EV) detection:</b> This video shows the emergency vehicles being detected by the trained YOLO-v3 object detector.</small><br/>
 <br>
