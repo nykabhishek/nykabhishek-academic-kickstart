@@ -54,12 +54,13 @@ slides: ""
 </p>
 <p>
     <h4>References:</h4>
-    <br>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.
+    <ol>
+        <li>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.</li>
+    </ol>
 </p>
 
 <h4> <b>Videos:</b> </h4>
-
-<p style="text-align:justify; line-height:80%" > 
+<p style="text-align:center; line-height:80%" > 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <small> <b>Emergency Vehicle (EV) detection:</b> This video shows the emergency vehicles being detected by the trained YOLO-v3 object detector.</small><br/>
 <br>
