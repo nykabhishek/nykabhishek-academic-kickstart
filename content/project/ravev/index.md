@@ -64,10 +64,10 @@ slides: example
     <iframe width="560" height="315" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <body>
     <h4> RAVEV - Clear line of sight </h4>
     <p style="text-align:justify;"> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </p>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
