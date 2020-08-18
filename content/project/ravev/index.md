@@ -1,6 +1,6 @@
 ---
 title: Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV)
-summary: The objective of this project was to explore how an autonomous vehicle must safely respond to different classes of emergency vehicles using sound, vision and other onboard sensors. I developed vision-based emergency vehicle detection, tracking and localization capabilities for the smart road-side infrastructure using Python and ROS. YOLO-v3 was used as the base architecture for object detection, and a TensorFlow-based object classification neural network was developed using Keras.
+summary: <p style="text-align:justify;"> The objective of this project was to explore how an autonomous vehicle must safely respond to different classes of emergency vehicles using sound, vision and other onboard sensors. I developed vision-based emergency vehicle detection, tracking and localization capabilities for the smart road-side infrastructure using Python and ROS. YOLO-v3 was used as the base architecture for object detection, and a TensorFlow-based object classification neural network was developed using Keras. </p>
 tags:
 - Autonomous Vehicles
 - Computer Vision
@@ -68,6 +68,6 @@ slides: example
 
 <body>
     <h4> RAVEV - Clear line of sight </h4>
-    <p class="aligncenter"> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </p>
+    <p style="text-align:justify;"> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </p>
     <iframe width="560" height="315" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </body>
