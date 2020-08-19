@@ -20,15 +20,14 @@ organizations:
   url: "https://autonomy.engr.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Computer Vision, Autonomous Vehicles, Algorithms, Vehicle Routing,  Multi-agent path planning, Artificial Intelligence and Machine learning.
+bio: Passionate researcher working on Safe & Connected Autonomous Vehicles.
 
 
 interests:
 - Computer vision
 - Autonomous vehicles
 - Algorithms
-- Vehicle Routing
-- Multi-agent path planning
+- Motion planning & Vehicle Routing
 - Artificial Intelligence
 - Machine learning
 
