@@ -54,9 +54,10 @@ slides: ""
 </p>
 <p>
     <h4>References:</h4>
-    <ol>
+    <ul>
         <li>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.</li>
-    </ol>
+        <li>Nayak, A., Rathinam, S., & Gopalswamy, S. (2020). Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV) (No. 03-051).</li>
+    </ul>
 </p>
 
 <h4> <b>Videos:</b> </h4>
@@ -65,11 +66,11 @@ slides: ""
     <small> <b>Emergency Vehicle (EV) detection:</b> This video shows the emergency vehicles being detected by the trained YOLO-v3 object detector.</small><br/>
 <br>
     <iframe width="720" height="405" src="https://www.youtube.com/embed/jC9_wJNKgvk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <small> <b> RAVEV - Hidden line of sight </b>This video shows the response by an autonomous vehicle when being followed by an EV with an obscured line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </small><br/>
+    <small> <b> RAVEV - Hidden line of sight:</b> This video shows the response by an autonomous vehicle when being followed by an EV with an obscured line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </small><br/>
 <br>
     <iframe width="720" height="405" src="https://www.youtube.com/embed/7__n65RxJSA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    <small> <b> RAVEV - Clear line of sight: </b> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </small><br/>
+    <small> <b> RAVEV - Clear line of sight:</b> This video shows the response by an autonomous vehicle when being followed by an EV with a clear line of sight. This video was collected at RELLIS campus facility of Texas A&M University. </small><br/>
 <br>
-    <iframe width="720" height="405" src="https://youtu.be/RnoCnT-sKZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/RnoCnT-sKZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <small> <b> High-speed lane change:</b> This video shows in action the high speed vehicle controller developed as a part of the RAVEV project. This video was collected at RELLIS campus facility of Texas A&M University. </small>
 </p>
