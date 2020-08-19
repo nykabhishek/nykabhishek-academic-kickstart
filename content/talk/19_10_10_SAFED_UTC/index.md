@@ -11,7 +11,7 @@ address:
   postcode: '77843'
   country: United States
 
-summary: A brief on my activites as a Researcher at TTI.
+summary: A brief on my activites as a TTI Researcher at the Safe-D UTC Graduate Student Leadership Development Seminars.
 abstract: "Presented my research work, and talked on how the Safe-D UTC has supported my research activities at Texas A&M University. The audience mainly consisted of current and aspiring student researchers at Texas A&M Transportation Institute, Virginia Tech Transportation Institute, and the transportation research group at San Diego State University."
 
 # Talk start and end times.

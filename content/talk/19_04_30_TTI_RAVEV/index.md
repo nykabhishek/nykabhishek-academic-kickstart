@@ -11,7 +11,7 @@ address:
   postcode: '77807'
   country: United States
 
-summary: An example talk using Academic's Markdown slides feature.
+summary: Poster presentation at the 4th Annual Texas A&M Transportation Technology Conference, College Station TX.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
