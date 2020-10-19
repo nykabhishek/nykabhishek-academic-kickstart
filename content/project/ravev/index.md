@@ -58,14 +58,14 @@ slides: ""
 <p>
     <b><a href="https://sites.google.com/tamu.edu/ravev/" target="_blank">Visit Project Website</a></b> 
 </p>
+<p>
+    This was a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
+</p>
 <p> 
     Follow this <a href="https://www.vtti.vt.edu/utc/safe-d/index.php/projects/response-of-autonomous-vehicles-to-emergency-response-vehicles/" target="_blank">link</a> to view the project on Safe-D Website.
 </p>
 <p>
-    This was a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
-</p>
-<p>
-    The final report of the project can be viewed <a href="https://www.vtti.vt.edu/utc/safe-d/wp-content/uploads/2020/06/03-051_FinalResearchReport_Final.pdf" target="_blank">here</a>.
+    The final report of the project can be viewed <a href="https://safed.vtti.vt.edu/wp-content/uploads/2020/08/03-051_FinalResearchReport_Final.pdf" target="_blank">here</a>.
 </p>
 <p>
     <h4>References:</h4>
