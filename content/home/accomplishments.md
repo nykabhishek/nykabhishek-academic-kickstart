@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -24,8 +24,8 @@ date_format = "Jan 2006"
   title = "Deep Learning Specialization"
   url = "https://www.coursera.org/specializations/deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/PZRPRTSRHHWW"
-  date_start = ""
-  date_end = "2020-09-30"
+  date_start = "2020-09-30"
+  date_end = ""
   description = ""
 
 [[item]]
@@ -34,7 +34,7 @@ date_format = "Jan 2006"
   title = "CREO Parametric"
   url = "https://www.ptc.com/en/products/creo/parametric"
   certificate_url = "https://www.caddcentre.com/caddVerification.php?ddac=NDg3NTIw"
-  date_start = ""
-  date_end = "2015-09-30"
+  date_start = "2015-09-30"
+  date_end = ""
   description = ""
 +++
