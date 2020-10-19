@@ -6,6 +6,7 @@ tags:
 - Computer Vision
 - Machine Learning
 - Deep Learning
+- Sensor Fusion
 date: "2018-01-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

@@ -36,6 +36,10 @@ subtitle = ""
   [[content.filter_button]]
   name = "Sensor Fusion"
   tag = "Sensor Fusion"
+
+  [[content.filter_button]]
+  name = "Autonomous Vehicles"
+  tag = "Autonomous Vehicles"
   
   [[content.filter_button]]
     name = "Other"

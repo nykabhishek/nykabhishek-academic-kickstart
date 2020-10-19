@@ -5,6 +5,7 @@ tags:
 - Autonomous Vehicles
 - Computer Vision
 - Deep Learning
+- Sensor Fusion
 date: "2017-08-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
