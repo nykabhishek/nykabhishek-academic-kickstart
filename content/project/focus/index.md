@@ -27,14 +27,14 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 <b>Location:</b> CAST Program (https://cast.tamu.edu/), Texas A&M University - College Station, TX
 
-<!-- <p> -->
+<p>
     <img src='/images/focus_circuit.jpg'>
-<!-- </p> -->
+</p>
 <p>
     <iframe width="720" height="405" src="https://www.youtube.com/embed/0Qlv_Cc4pwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

@@ -3,6 +3,7 @@ title: Reference Machine Vision for ADAS functions
 summary: The objective of this project is to develop a reference Lane Detection (LD) system that will provide a benchmark for evaluating different lane markings, sensors and perception algorithms. An extensive video dataset was collected by driving on various roads in Central Texas comprising of different weather conditions, time of day, pavement marking presence and luminance variables. The videos were evaluated on different state-of-the art LD algorithms and their performance was ranked based on a set of metrics specifically developed for evaluating the LD effectiveness.
 tags:
 - Deep Learning
+- Computer Vision
 date: "2019-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -13,10 +14,15 @@ image:
   focal_point: Smart
 
 links:
+- icon: newspaper
+  icon_pack: fas
+  name: Publication
+  url: https://www.sae.org/publications/technical-papers/content/2020-01-0096/
 - icon: linkedin
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/nykabhishek/
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,7 +33,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+slides: ""
 ---
 
 <p>

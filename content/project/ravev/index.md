@@ -16,6 +16,10 @@ image:
   focal_point: Smart
 
 links:
+- icon: newspaper
+  icon_pack: fas
+  name: Publication
+  url: https://www.sae.org/publications/technical-papers/content/2019-01-0889/
 - icon: github
   icon_pack: fab
   name: Code
