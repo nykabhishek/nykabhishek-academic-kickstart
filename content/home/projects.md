@@ -28,6 +28,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
+
+  [[content.filter_button]]
+    name = "Computer Vision"
+    tag = "Computer Vision"
+  
+  [[content.filter_button]]
+  name = "Sensor Fusion"
+  tag = "Sensor Fusion"
   
   [[content.filter_button]]
     name = "Other"

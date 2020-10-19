@@ -20,8 +20,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/nykabhishek/
+- icon: database
+  icon_pack: fas
+  name: Dataset
+  url: https://sites.google.com/tamu.edu/ravev/research-data?authuser=0
+
 url_code: "https://github.com/nykabhishek/RAVEV"
-url_pdf: ""
+url_pdf: "https://safed.vtti.vt.edu/wp-content/uploads/2020/08/03-051_FinalResearchReport_Final.pdf"
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=gh0g5iAuruw"
 
