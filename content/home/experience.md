@@ -34,7 +34,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Student Researcher"
-  company = "Autonomous Sysytems Laboratory"
+  company = "Autonomous Sytems Laboratory"
   company_url = "https://autonomy.engr.tamu.edu/"
   location = "College Station, TX"
   date_start = "2017-08-22"

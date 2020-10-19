@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 95  # Order that this section will appear.
 
-title = "Accomplish&shy;ments"
+title = "Accomplishments"
 subtitle = ""
 
 # Date format
@@ -21,11 +21,20 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  title = "Deep Learning Specialization"
+  url = "https://www.coursera.org/specializations/deep-learning"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/PZRPRTSRHHWW"
+  date_start = ""
+  date_end = "2020-09-30"
   description = ""
 
+[[item]]
+  organization = "CADD Centre"
+  organization_url = "https://www.caddcentre.com/"
+  title = "CREO Parametric"
+  url = "https://www.ptc.com/en/products/creo/parametric"
+  certificate_url = "https://www.caddcentre.com/caddVerification.php?ddac=NDg3NTIw"
+  date_start = ""
+  date_end = "2015-09-30"
+  description = ""
 +++
