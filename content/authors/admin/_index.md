@@ -86,12 +86,16 @@ user_groups:
 
 <div style="text-align: justify">
 
-  Hi I’m Abhishek Nayak. I’m a doctoral student in the department of Mechanical Engineering at Texas A&M University, College Station. I work on developing solutions for sensing and planning problems in autonomous vehicles and smart city infrastructures. I am broadly interested in vision-based methods for perception, sensor-fusion, learning-based approaches for combinatorial optimization, vehicle motion planning and routing algorithms, and multi-agent path planning algorithms. I’m passionate about Automobiles and road safety, and am currently working on projects that aim towards improving the safety standards for road transportation.
+  Hi! Welcome to my webpage. 
 
-  Since Fall 2017, I’ve been part of the Autonomous Systems Laboratory at Texas A&M University, working with Dr. Sivakumar Rathinam. I received my Master of Science degree in Dec 2019 and my thesis work was on developing vision-based response of autonomous vehicles towards emergency vehicles using infrastructure enabled autonomy. More details of this project can be found in the projects section of this website. Prior to joining Texas A&M, I was working as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for design and development of cylinderhead and valve train parts.
+  I’m Abhishek Nayak, a Ph.D. candidate in the Department of Mechanical Engineering at Texas A&M University, College Station. My research interests include developing path-planning and vehicle routing algorithms, robotic perception, computer vision, sensor fusion, and learning-based approaches for problem-solving. I’m passionate about safe transportation and am currently working with the Texas A&M Transportation Institute on [SAFE-D](https://safed.vtti.vt.edu/) projects that aim at improving road safety standards.
 
-  In my free-time I enjoy playing tennis, soccer, cooking, hiking and travelling.
+  I’ve been part of the Autonomous Systems Laboratory at Texas A&M University, working with Dr. Sivakumar Rathinam since Fall 2017. I received my Master of Science degree in Dec 2019. My thesis work was on developing a vision-based response of autonomous vehicles towards emergency vehicles using infrastructure-enabled autonomy. I also have extensive experience working in the automotive industry before joining Texas A&M. I was working as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for the design and development of cylinder-head and valve train parts.
+
+  In my free time, I enjoy playing tennis, soccer, cooking, hiking and traveling.
+
+  <!-- I work on developing solutions for sensing and planning problems in autonomous vehicles and smart infrastructures.  -->
   
-  <!-- I've also been assosciated with the CAST group at Texas A&M working with Dr. Swaminathan Gopalswamy  -->
+  <!-- I've also been associated with the CAST group at Texas A&M working with Dr. Swaminathan Gopalswamy  -->
 
 </div>

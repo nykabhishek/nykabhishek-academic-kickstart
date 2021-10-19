@@ -24,22 +24,18 @@ subtitle = ""
   [[content.filter_button]]
     name = "All"
     tag = "*"
-  
-  [[content.filter_button]]
-    name = "Deep Learning"
-    tag = "Deep Learning"
 
   [[content.filter_button]]
     name = "Computer Vision"
     tag = "Computer Vision"
   
   [[content.filter_button]]
-  name = "Sensor Fusion"
-  tag = "Sensor Fusion"
+    name = "Algorithms"
+    tag = "Algorithms"
 
   [[content.filter_button]]
-  name = "Autonomous Vehicles"
-  tag = "Autonomous Vehicles"
+    name = "Autonomous Vehicles"
+    tag = "Autonomous Vehicles"
   
   [[content.filter_button]]
     name = "Other"
