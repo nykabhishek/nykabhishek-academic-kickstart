@@ -22,9 +22,13 @@ links:
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/nykabhishek/
+- icon: file-pdf
+  icon_pack: fas
+  name: Report
+  url: https://safed.vtti.vt.edu/wp-content/uploads/2021/06/Safe-D_Report-04_115_Final-Report-V2.pdf
 
 url_code: ""
-url_pdf: "https://safed.vtti.vt.edu/wp-content/uploads/2021/06/Safe-D_Report-04_115_Final-Report-V2.pdf"
+url_pdf: ""
 url_slides: ""
 url_video: ""
 

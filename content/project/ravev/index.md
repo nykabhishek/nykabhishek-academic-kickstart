@@ -40,8 +40,8 @@ links:
 
 
 
-url_code: "https://github.com/nykabhishek/RAVEV"
-url_pdf: "https://safed.vtti.vt.edu/wp-content/uploads/2020/08/03-051_FinalResearchReport_Final.pdf"
+url_code: ""
+url_pdf: ""
 url_slides: ""
 url_video: "https://www.youtube.com/watch?v=gh0g5iAuruw"
 
