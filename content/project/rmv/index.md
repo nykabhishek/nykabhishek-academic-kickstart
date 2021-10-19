@@ -24,7 +24,7 @@ links:
   url: https://www.linkedin.com/in/nykabhishek/
 
 url_code: ""
-url_pdf: ""
+url_pdf: "https://safed.vtti.vt.edu/wp-content/uploads/2021/06/Safe-D_Report-04_115_Final-Report-V2.pdf"
 url_slides: ""
 url_video: ""
 

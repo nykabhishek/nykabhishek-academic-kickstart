@@ -1,7 +1,7 @@
 ---
-title: Webinar - Reference Machine Vision for ADAS
+title: Webinar - Reference Machine Vision for ADAS Functions
 event: SAFE-D Webinar Series
-event_url: https://www.youtube.com/watch?v=uAnHRLz7cqA
+event_url: https://safed.vtti.vt.edu/webinar-archive/#
 
 # location: The Stella Hotel
 # address:
@@ -11,8 +11,8 @@ event_url: https://www.youtube.com/watch?v=uAnHRLz7cqA
 #   postcode: '77807'
 #   country: United States
 
-summary: SAFE-D Webinar on Reference Machine Vision for ADAS.
-abstract: "This webinar was a review of the work done of the SAFE-D project 'Reference Machine Vision for ADAS'. The objective of this project is to develop a reference system for evaluating different lane markings and perception algorithms. This project validates the effectiveness of different types of lane markings for detectability on state-of-the-art lane detection (LD) algorithms. An in-depth study into the different parameters affecting the performance of LD algorithms was conducted by incorporating pavement marking material characteristics into the evaluation framework. The effect of environmental factors (Day vs Night), driving direction, lane marking material characteristics (reflective properties like Qd/RL, marking quality), lane making layouts (30ft gap vs 40ft gap, 4inch wide vs 6 inches wide), and LD evaluation characteristics (Type of LD algorithm, Near Field-of-view (FOV) vs Far FOV) were studied. Observations were made on how these different factors interact with each other and affect LD performance. Three different annotated image datasets were also generated which includes the (1) College Station Dataset (On-road with Material data), (2) 3M panel dataset (Closed course with material data), and (3) US290 Dataset (On-road special type of markings without material data). These datasets can be used as a reference/benchmark system by researchers to evaluate their LD algorithms and infer how their performance relates to different types of lane markings and their material characteristics. In this presentation, we will present an overview of the project, the methods used and the results obtained in this project."
+summary: SAFE-D Webinar on Reference Machine Vision for ADAS Functions
+abstract: "This webinar was a review of the work done of the SAFE-D project 'Reference Machine Vision for ADAS Functions'. The objective of this project is to develop a reference system for evaluating different lane markings and perception algorithms. This project validates the effectiveness of different types of lane markings for detectability on state-of-the-art lane detection (LD) algorithms. An in-depth study into the different parameters affecting the performance of LD algorithms was conducted by incorporating pavement marking material characteristics into the evaluation framework. The effect of environmental factors (Day vs Night), driving direction, lane marking material characteristics (reflective properties like Qd/RL, marking quality), lane making layouts (30ft gap vs 40ft gap, 4inch wide vs 6 inches wide), and LD evaluation characteristics (Type of LD algorithm, Near Field-of-view (FOV) vs Far FOV) were studied. Observations were made on how these different factors interact with each other and affect LD performance. Three different annotated image datasets were also generated which includes the (1) College Station Dataset (On-road with Material data), (2) 3M panel dataset (Closed course with material data), and (3) US290 Dataset (On-road special type of markings without material data). These datasets can be used as a reference/benchmark system by researchers to evaluate their LD algorithms and infer how their performance relates to different types of lane markings and their material characteristics. In this presentation, we will present an overview of the project, the methods used and the results obtained in this project."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -78,3 +78,7 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code. -->
+
+<p>
+  <iframe width="720" height="405" src="https://www.youtube.com/watch?v=uAnHRLz7cqA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
