@@ -19,11 +19,25 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Graduate Research Assistant"
+  company = "Texas A&M Engineering Experiment Station (TEES)"
+  company_url = "https://autonomy.engr.tamu.edu/"
+  location = "College Station, TX"
+  date_start = "2021-09-01"
+  date_end = ""
+  description = """
+  Projects:
+  
+  * *Robotic path planning algorithms in presence of obstacle*
+
+  """
+
+[[experience]]
+  title = "Graduate Research Assistant"
   company = "Texas A&M Transportation Institute (TTI)"
   company_url = "https://tti.tamu.edu/"
   location = "College Station, TX"
   date_start = "2018-01-01"
-  date_end = ""
+  date_end = "2021-08-31"
   description = """
   Projects:
   
@@ -43,8 +57,7 @@ date_format = "Jan 2006"
   Projects:
   * *Heuristics and Reinforcement learning models for combinatorial optimization problems*
   * *Infrastructure Enabled Autonomy (IEA)*
-  * *Development of autonomous driving capability on a Ford Focus*
-  
+
   """
 
 [[experience]]
@@ -55,6 +68,9 @@ date_format = "Jan 2006"
   date_start = "2017-08-22"
   date_end = "2017-12-31"
   description = """
+  Projects:
+  * *Development of autonomous driving capability on a Ford Focus*
+  
   """
 
 [[experience]]
@@ -65,12 +81,10 @@ date_format = "Jan 2006"
   date_start = "2014-08-27"
   date_end = "2017-08-21"
   description = """
-  <!-- Responsibilities include:
-  
-  * CAD design & development of Valvetrain & timing drive components for TVS & BMW power-trains including Apache RTR200 4V, Apache RR310, Victor, BMW G310R and its life-cycle management.
-  * Experienced in Product management and development techniques like Design Reviews (TDR), Engineering Change Management (ECM), Product Benchmarking, DFX, DFMEA, Patent Survey, Value Engineering (VA/VE).
-  * Developed mathematical models of Valvetrain and Timing drive using MATLAB, and conducted experiments to improve engine dynamics in Jupiter, Victor, Apache RTR200, Apache RR310 and BMW G310R models.
-  * Involved in design & development of concept VVT engines, Cam-phaser camshaft & Internal-EGR Concepts for 125cc to 200cc capacity engines to achieve target performance, improve fuel economy (about 10%) and meet EU IV emission standards. -->
+  <!-- * CAD design & development of Valvetrain & timing drive components for TVS & BMW power-trains including Apache RTR200 4V, Apache RR310, Victor, BMW G310R and its life-cycle management. -->
+  * Involved in new product development and performed Design Reviews (TDR), Engineering Change Management (ECM), Product Benchmarking, DFX, DFMEA, Patent Survey, Value Engineering (VA/VE).
+  * Developed mathematical models of Valvetrain and Timing drive using MATLAB, and conducted experiments to improve engine perforomance in TVSM and BMW Motorrad models.
+  <!-- * Involved in design & development of concept VVT engines, Cam-phaser camshaft & Internal-EGR Concepts for 125cc to 200cc capacity engines to achieve target performance, improve fuel economy (about 10%) and meet EU IV emission standards. -->
   """
 
 [[experience]]
