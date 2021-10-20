@@ -24,10 +24,10 @@ bio: Passionate researcher working on Safe & Connected Autonomous Vehicles.
 
 
 interests:
-- Computer vision
 - Autonomous vehicles
 - Algorithms
 - Motion planning & Vehicle Routing
+- Computer vision
 - Artificial Intelligence
 - Machine learning
 - Reinforcement Learning
@@ -36,7 +36,7 @@ education:
   courses:
   - course: PhD in Mechanical Engineering
     institution: Texas A&M University, College Station - TX
-    year: 2021
+    year: 2022
   - course: MS in Mechanical Engineering
     institution: Texas A&M University, College Station - TX
     year: 2019

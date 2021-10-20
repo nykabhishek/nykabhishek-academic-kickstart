@@ -82,8 +82,8 @@ date_format = "Jan 2006"
   date_end = "2017-08-21"
   description = """
   <!-- * CAD design & development of Valvetrain & timing drive components for TVS & BMW power-trains including Apache RTR200 4V, Apache RR310, Victor, BMW G310R and its life-cycle management. -->
-  * Involved in new product development and performed Design Reviews (TDR), Engineering Change Management (ECM), Product Benchmarking, DFX, DFMEA, Patent Survey, Value Engineering (VA/VE).
   * Developed mathematical models of Valvetrain and Timing drive using MATLAB, and conducted experiments to improve engine perforomance in TVSM and BMW Motorrad models.
+  * Involved in new product development and performed Design Reviews (TDR), Engineering Change Management (ECM), Product Benchmarking, DFX, DFMEA, Patent Survey, Value Engineering (VA/VE).
   <!-- * Involved in design & development of concept VVT engines, Cam-phaser camshaft & Internal-EGR Concepts for 125cc to 200cc capacity engines to achieve target performance, improve fuel economy (about 10%) and meet EU IV emission standards. -->
   """
 
