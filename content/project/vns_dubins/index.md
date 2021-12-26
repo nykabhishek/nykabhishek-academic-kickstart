@@ -1,6 +1,6 @@
 ---
 title: Heuristics and Reinforcement learning models for curvature constrained vehicle routing problems
-summary: As a part of this work I developed heuristics, and exact methods to obtain fast feasible solutions for the Dubins mTSP problem. I also explored learning based approached to solve this problem and Trained reinforcement learning (RL) models, recurrent neural networks (RNN’s), LSTM networks, and Encoder-Decoder neural networks for graph networks using PyTorch. The results obtained were compared against the solutions from Mixed-Integer programs (MIP) formulations that were solved using CPLEX and Gurobi solvers on high-performance computing servers.
+summary: As a part of this work, I developed heuristics, Mixed-Integer programs (MIP), trained neural networks, and reinforcement learning (RL) models to solve curvature-constrained multi-vehicle routing problems. The reinforcement learning (RL) models and recurrent neural networks (RNN’s) for graphs were implemented and trained using PyTorch. The Mixed-Integer programs (MIP) formulations were solved using CPLEX solvers on high-performance computing servers.
 
 tags:
 - Path Planning

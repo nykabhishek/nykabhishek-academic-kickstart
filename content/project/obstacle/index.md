@@ -1,6 +1,6 @@
 ---
 title: Robotic path planning algorithms in presence of obstacles
-summary: In this project, I developed new bounding approaches for robots in curvature constrained shortest path problems in presence of obstacles.
+summary: In this project, I developed new bounding approaches for shortest path problems involving curvature constrained robots in presence of obstacles.
 tags:
 - Path Planning
 - Algorithms
@@ -34,16 +34,10 @@ slides: ""
 
 <b>Location:</b> Autonomous Systems Laboratory (https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
 
-<!-- <p>
-    <img src='/images/focus_circuit.jpg'>
-    <small> Arduino microcontroller based drive-by-wire setup. </small>
-</p>
 <p>
     <iframe width="720" height="405" src="https://www.youtube.com/embed/0Qlv_Cc4pwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-<p>
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/Q8OMI-cLm2E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p> -->
+
 
 <p>
     <b>Collaborators:</b> Satyanarayana G Manyam (https://scholar.google.com/citations?user=biUXytYAAAAJ&hl=en&oi=ao)

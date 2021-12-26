@@ -1,8 +1,8 @@
 ---
 title: Multi-Agent SLAM and navigation using ROSBot
-summary: Used ROSBot by Husarion to implement multi-agent SLAM algorithms to obtain occupancy grid maps using multiple car-like robots. These robots were also used as a demonstration platform to showcase the path planning / vehicle routing algorithms I developed as part of my PhD thesis on "Planning and Vision-based tools for Autonomous Vehicles"
+summary: Implemented multi-agent SLAM to construct occupancy grid maps using ROSBots 2.0 by Husatrion. These robots were also used as a demonstration platform to showcase the motion planning algorithms I developed as part of my PhD thesis on "Planning and Vision-based tools for Autonomous Vehicles"
 tags:
-- Path Planning
+- Planning
 - Algorithms
 - Heuristics
 date: "2021-05-01T00:00:00Z"
@@ -23,7 +23,7 @@ links:
   icon_pack: fab
   name: Video
   url: https://youtu.be/oH0RVqI9pJU
-url_code: ""
+url_code: "https://github.com/nykabhishek/rosbot_multi-agent_SLAM"
 url_pdf: ""
 url_slides: ""
 url_video: ""
@@ -38,10 +38,15 @@ slides: ""
 
 <b>Location:</b> Autonomous Systems Laboratory (https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
 
-<p>
+<!-- <p>
     <img src='/images/rosbots.jpg'>
     <small> ROSBots by Husarion </small>
-</p>
+</p> -->
+
 <p>
-    <iframe width="720" height="405" src="https://youtu.be/oH0RVqI9pJU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/oH0RVqI9pJU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/CRFiTtZXsXA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

@@ -1,6 +1,6 @@
 ---
 title: Infrastructure Enabled Autonomy (IEA)
-summary: "The objective of this project is to develop a distributed intelligence architecture for connected autonomous vehicles by offloading core computational functionalities to the infrastructure. I set up the DSRC communication network for V2V, V2I, and I2I, and developed machine vision capabilities for on-road object detection, tracking, camera/vision assisted SLAM on the smart-infrastructure to enable autonomy for connected vehicles. All the above techniques were developed on Python, C++, and implemented using ROS."
+summary: "The objective of this project was to develop a distributed intelligence architecture for connected autonomous vehicles by offloading core computational functionalities to the infrastructure. I worked on establishing the V2V and V2I communication network using DSRC; developed machine vision capabilities like object detection, semantic segmentation, and tracking for smart-infrastructure-assisted SLAM and autonomous control for connected vehicles."
 tags:
 - Autonomous Vehicles
 - Computer Vision
@@ -50,10 +50,7 @@ slides: ""
     IEA is a new paradigm in Autonomous Vehicle technology that looks at offloading the core computational capabilities of awareness generation and path planning from the vehicle out onto Smart Roadside Units equipped with various sensors. Through this distributed setup IEA provides a solution of shared liabilities by transferring the primary responsibility of localization from vehicle to infrastructure which in-turn enables of greater situational awareness of the area under the purview of IEA. IEA architecture is deployed on specific sections of roads or special traffic corridors by installing Road-Side Units (RSU) on either side of the road. These RSUs are fitted with multi-sensor smart packs (MSSP) containing sensors required for localizing vehicles. These MSSPs monitor the vehicles in the section of the roads under the purview of IEA and aid in generating the situational awareness which can be transmitted to the vehicles subscribing to this information. 
     <br>
     <br>
-    MSSP includes several sensors that carry-out specific individual tasks and as a whole aid in generating the localization information. 
-    For example, cameras installed on the RSUs as a part of the MSSP are used to monitor traffic by identifying and locating all the objects of interest in the traffic corridor. 
-    MSSPs are installed with special SmartConnect devices, whose function is to establish wireless connectivity between MSSPs and the vehicles subscribing to its information and thus enabling transmission of information necessary for its localization. 
-    The SmartConnect devices are communication medium agnostic and modular so that they can be easily substituted by newer technologies.
+    MSSP includes several sensors that carry-out specific individual tasks and as a whole aid in generating the localization information. For example, cameras installed on the RSUs as a part of the MSSP are used to monitor traffic by identifying and locating all the objects of interest in the traffic corridor. MSSPs are installed with special SmartConnect devices, whose function is to establish wireless connectivity between MSSPs and the vehicles subscribing to its information and thus enabling transmission of information necessary for its localization. The SmartConnect devices are communication medium agnostic and modular so that they can be easily substituted by newer technologies.
 </p>
 
 <p>
