@@ -1,7 +1,6 @@
 ---
 title: Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV)
-summary: The objective of this project was to develop response protocols for an autonomous vehicle when it senses the presence of emergency vehicles using sound, vision, and other onboard sensors. As part of the project, I developed a public image dataset for Emergency vehicles (EV); trained object detection, classification, and tracking models
-developed using scikit-learn and Keras, and implemented SLAM for control of the autonomous vehicle in the presence of emergency responders.
+summary: The objective of this project was to develop response protocols for an autonomous vehicle when it senses the presence of emergency vehicles using sound, vision, and other onboard sensors. As part of the project, I developed a public image dataset for Emergency vehicles (EV); trained object detection, classification, and tracking models developed using scikit-learn and Keras, and implemented SLAM for control of the autonomous vehicle in the presence of emergency responders.
 tags:
 - Autonomous Vehicles
 - Computer Vision
