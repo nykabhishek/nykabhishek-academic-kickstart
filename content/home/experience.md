@@ -52,33 +52,6 @@ date_format = "Jan 2006"
 
   """
 
-<!-- [[experience]]
-  title = "Student Researcher"
-  company = "Autonomous Sytems Laboratory"
-  company_url = "https://autonomy.engr.tamu.edu/"
-  location = "College Station, TX"
-  date_start = "2017-08-22"
-  date_end = ""
-  description = """
-  Projects:
-  * *Heuristics and Reinforcement learning models for combinatorial optimization problems*
-  * *Infrastructure Enabled Autonomy (IEA)*
-
-  """ -->
-
-<!-- [[experience]]
-  title = "Student Technician"
-  company = "Texas A&M Engineering Experiment Station (TEES)"
-  company_url = ""
-  location = "College Station, TX"
-  date_start = "2017-08-22"
-  date_end = "2017-12-31"
-  description = """
-  Projects:
-  * *Development of autonomous driving capability on a Ford Focus*
-  
-  """ -->
-
 [[experience]]
   title = "Member R&D - Powertrain Group"
   company = "TVS Motor Company Ltd."
