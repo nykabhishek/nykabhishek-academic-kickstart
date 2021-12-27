@@ -92,7 +92,7 @@ user_groups:
 
  I have been part of the Autonomous Systems Laboratory at Texas A&M University, working with Dr. Sivakumar Rathinam since Fall 2017.  I have extensive hands-on experience implementing robotic perception, computer vision, sensor fusion, SLAM, and developing heuristics and learning-based algorithms for motion planning of indoor and outdoor autonomous vehicles. 
 
-  I am an experienced industry professional and have worked in the automotive industry for three years as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for the powertrain design and development.
+  I am an experienced industry professional and have worked in the automotive industry for three years as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for powertrain design and development.
 
   I enjoy playing tennis, running, soccer, cooking, and traveling.
 
