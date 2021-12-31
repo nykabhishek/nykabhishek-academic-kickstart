@@ -52,7 +52,7 @@ subtitle = ""
   #   5 = Showcase
   view = 2
 
-  # For Showcase view, flip alternate rows?
+  # For Showcase view, flip alternate rows? 
   flip_alt_rows = false
 
 [design.background]
