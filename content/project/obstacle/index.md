@@ -1,6 +1,6 @@
 ---
-title: Robotic path planning algorithms in presence of obstacles
-summary: In this project, I developed new bounding approaches for shortest path problems involving curvature constrained robots in presence of obstacles.
+title: Robotic motion planning algorithms in presence of obstacles
+summary: In this work, I developed new bounding approaches for shortest path problems involving curvature constrained robots in presence of obstacles.
 tags:
 - Path Planning
 - Algorithms
@@ -34,9 +34,9 @@ slides: ""
 
 <b>Location:</b> Autonomous Systems Laboratory (https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
 
-<p>
+<!-- <p>
     <iframe width="720" height="405" src="https://www.youtube.com/embed/0Qlv_Cc4pwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+</p> -->
 
 
 <p>
