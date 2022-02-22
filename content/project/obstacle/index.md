@@ -1,8 +1,8 @@
 ---
 title: Robotic motion planning algorithms in presence of obstacles
-summary: In this work, I developed new bounding approaches for shortest path problems involving curvature constrained robots in presence of obstacles.
+summary: In this work, I worked on developing optimized algorithms to establish bounds on paths of curvature-constrained vehicles in the presence of obstacles.
 tags:
-- Path Planning
+- Motion Planning
 - Algorithms
 - Heuristics
 date: "2021-05-01T00:00:00Z"

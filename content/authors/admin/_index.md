@@ -25,11 +25,10 @@ bio: Passionate researcher working on Safe & Connected Autonomous Vehicles.
 
 interests:
 - Autonomous vehicles
-- Algorithms
-- Motion planning & Vehicle Routing
+- Motion planning Algorithms
 - Computer vision
 - Artificial Intelligence
-- Machine learning
+- Machine Learning
 - Reinforcement Learning
 
 education:
@@ -87,13 +86,13 @@ user_groups:
 
   Hi! Welcome to my webpage. 
 
-  I’m Abhishek Nayak, a Ph.D. candidate in the Department of Mechanical Engineering at Texas A&M University, College Station. My research interests include perception and motion planning for robots. I am passionate about safe transportation and am currently working with the Texas A&M Transportation Institute on [SAFE-D](https://safed.vtti.vt.edu/) projects that aim at improving road safety standards.
+  I am Abhishek Nayak, a Ph.D. candidate in the Department of Mechanical Engineering at Texas A&M University, where I work as a Graduate Research Assistant with the [Autonomous Systems Laboratory](https://autonomy.engr.tamu.edu/). My research explores 'Planning and Vision-based methods for Autonomous Vehicles.' I am an advocate of safe transportation and am currently working with the Texas A&M Transportation Institute on [SAFE-D](https://safed.vtti.vt.edu/) projects that aim at improving road safety standards. Previously, for my Master's research, I worked on developing vision-based safe response protocols for autonomous vehicles towards emergency response vehicles.
 
- I have been part of the Autonomous Systems Laboratory at Texas A&M University, working with Dr. Sivakumar Rathinam since Fall 2017.  I have extensive hands-on experience implementing robotic perception, computer vision, sensor fusion, SLAM, and developing heuristics and learning-based motion planning algorithms for autonomous vehicles and indoor robots. 
+  My research interests include - 1) Perception Models for Mobile Robots, 2) Heuristics and Optimization for Task Allocation and Motion Planning, and 3) Learning-based methods for constrained Motion Planning. During my time at Texas A&M, I was able to explore these topics (and beyond) in-depth and gain practical knowledge by applying my research on an autonomous Lincoln MKZ vehicle [(a teaser)](https://youtu.be/gh0g5iAuruw).
 
-  I am an experienced industry professional and have worked in the automotive industry for three years as a Design Engineer at the R&D of TVS Motor Company, India, where I was responsible for powertrain design and development.
+  I am also an experienced industry professional and have worked in the automotive industry for three years as an R&D Engineer in the powertrains section of [TVS Motor Company, India](https://www.tvsmotor.com/).
 
-  I enjoy playing tennis, running, soccer, cooking, and traveling.
+  Besides academics, I enjoy playing tennis, running, cooking, and traveling.
 
   <!-- I work on developing solutions for sensing and planning problems in autonomous vehicles and smart infrastructures.  -->
   

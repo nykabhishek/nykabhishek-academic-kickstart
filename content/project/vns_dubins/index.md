@@ -1,9 +1,9 @@
 ---
 title: Heuristics and Reinforcement learning models for curvature constrained vehicle routing problems
-summary: As a part of this work, I developed heuristics, Mixed-Integer programs (MIP), trained neural networks, and reinforcement learning (RL) models to solve curvature-constrained multi-vehicle routing problems. The reinforcement learning (RL) models and recurrent neural networks (RNN’s) for graphs were implemented and trained using PyTorch. The Mixed-Integer programs (MIP) formulations were solved using CPLEX solvers on high-performance computing servers.
+summary: As a part of this work, I developed graph search heuristics, formulated mixed-Integer programs (MIP), trained graph CNNs, and reinforcement learning (RL) models to solve min-max task assignment problems for a fleet of non-holonomic vehicles curvature-constrained multi-vehicle routing problems. A comparative study was performed to evaluate performance on different metaheuristics, primarily the Variable Neighborhood Search (VNS). The reinforcement learning (RL) models and graph CNNs are implemented and trained using PyTorch. The MIP formulations were solved using CPLEX and gurobi solvers on high-performance computing servers.
 
 tags:
-- Path Planning
+- Motion Planning
 - Heuristics
 - Algorithms
 date: "2020-01-01T00:00:00Z"
@@ -35,6 +35,9 @@ slides: ""
 
 <b>Location:</b> Autonomous Systems Laboratory (https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
 
+<p>
+    <h4> Work in progress... Watch this space for more updates </h4>
+</p>
 <!-- <p>
     <img src='/images/focus_circuit.jpg'>
     <small> Arduino microcontroller based drive-by-wire setup. </small>

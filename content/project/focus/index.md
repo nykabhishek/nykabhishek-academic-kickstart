@@ -1,6 +1,6 @@
 ---
-title: Development of autonomous driving capability on a Ford Focus
-summary: Implementation of low-cost drive-by-wire control capability via sensor emulation using Arduino Mega on a Ford focus vehicle.
+title: Low-cost drive-by-wire system for Ford Focus
+summary: I worked in a team of 3 to develop prototypes of a low-cost drive-by-wire system to control a Ford Focus vehicle via sensor emulation using Arduino Mega.
 tags:
 - Autonomous Vehicles
 - Sensor Fusion

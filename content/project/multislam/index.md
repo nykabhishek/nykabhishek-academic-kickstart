@@ -1,8 +1,8 @@
 ---
 title: Multi-Agent SLAM and navigation using ROSBot
-summary: In this project, I implemented multi-agent SLAM to build occupancy grid maps using ROSBots 2.0 by Husarion. These robots were also used as a demonstration platform to showcase the motion planning algorithms I developed as part of my PhD thesis on "Planning and Vision-based tools for Autonomous Vehicles"
+summary: In this project, I implemented multi-agent SLAM to obtain occupancy grid maps from point-cloud data via autonomous frontier exploration using ROSBots 2.0 by Husarion. I tinkered around to establish navigation capabilities on this robot and used algorithms like Dijkstra, A*, D* lite, RRT, PRM, and potential field algorithms for indoor navigation. Further, I used these robots as a platform for demonstrating proof-of-concept prototypes of multi-agent path planning methods developed as part of my Ph.D. thesis "Planning and Vision-based tools for Autonomous Vehicles."
 tags:
-- Planning
+- Motion Planning
 - Algorithms
 - Heuristics
 date: "2021-05-01T00:00:00Z"

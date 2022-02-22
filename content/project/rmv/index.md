@@ -1,6 +1,6 @@
 ---
 title: Reference Machine Vision for ADAS functions
-summary: The objective of this project was to develop a reference Lane Detection (LD) system that will provide a benchmark for evaluating different lane markings, sensors, and perception algorithms. An extensive video dataset was developed by driving on various roads in Central Texas with changing weather conditions, time of day, pavement marking presence, and luminance variables. The dataset was used to develop a reference system to benchmark lane marking materials and their effect on lane detection (LD) performance of perception algorithms used in Lane Departure Warning (LDW) and Lane Keep Assist (LKA) modules.
+summary: The objective of this project was to develop a reference system for lane detection (LD) that will provide a benchmark for evaluating different lane markings, sensors, and perception algorithms. I generated an extensive lane detection (LD) dataset by driving on various roads in Central Texas with changing weather conditions, time of day, pavement marking quality, and pavement materials. Further, I studied the relationship between lane marking quality and LD algorithm performance used in ADAS using statistical methods to propose a reference test system for state agencies and OEMs to benchmark lane marking quality and its effect on LD performance.
 tags:
 - Deep Learning
 - Computer Vision
@@ -44,12 +44,24 @@ slides: ""
     <b>Location:</b> Texas A&M Transportation Institute (TTI) - College Station, TX
 </p>
 
+<h4> <b>Videos:</b> </h4>
 <p>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/lPJ7cJMTVgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/rZTTLVrJFtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p>
+<iframe width="720" height="405" src="https://www.youtube.com/embed/U4w29nLmVa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+
+<p style="text-align:justify;">
     <b>Abstract:</b>
-    Studies have shown that fatalities due to unintentional roadway departures can be significantly reduced if Lane Departure Warning (LDW) and Lane Keep Assist (LKA) systems are used effectively. 
-    However, these systems are not yet popular because the systems are not robust due, in part to the lack of suitable standards for pavement markings that enable reliable functionality of the sensor system. 
-    The objective of this project is to develop a reference Lane Detection (LD) system that will provide a benchmark for evaluating different lane markings, sensors, and perception algorithms. 
-    The goal of the project is to create a system that will validate the effectiveness of lane markings as well as the vision algorithms through a systematic development of LD metrics, and testing procedures for LD algorithms.
+    Studies have shown that fatalities due to unintentional roadway departures can be significantly reduced if Lane Departure Warning (LDW) and Lane Keep Assist (LKA) systems are used effectively. However, these systems are not yet popular because the systems are not robust due, in part to the lack of suitable standards for pavement markings that enable reliable functionality of the sensor system. 
+    <br>
+    The objective of this project is to develop a reference Lane Detection (LD) system that will provide a benchmark for evaluating different lane markings, sensors, and perception algorithms. The goal of the project is to create a system that will validate the effectiveness of lane markings as well as the vision algorithms through a systematic development of LD metrics, and testing procedures for LD algorithms.
 </p>
 
 <p> 
@@ -62,17 +74,10 @@ slides: ""
 
 <p>
     <b>Referances:</b>
-    <br>Nayak, A., Pike, A., Rathinam, S., & Gopalswamy, S. (2020). Reference test system for machine vision used for ADAS functions (No. 2020-01-0096). SAE Technical Paper.
+    <ol start="1">
+        <li>Nayak,A., Pike,A., & Rathinam,S.(2022). Effect of pavement markings on machine vision used in ADAS functions (No. 2022-01-0154). SAE Technical Paper.</li>
+        <li>Nayak, A., Pike, A., Rathinam, S., & Gopalswamy, S. (2020). Reference test system for machine vision used for ADAS functions (No. 2020-01-0096). SAE Technical Paper.</li>
+    </ol>
 </p>
 
-<p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/lPJ7cJMTVgI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
 
-<p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/rZTTLVrJFtM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-
-<p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/U4w29nLmVa0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>

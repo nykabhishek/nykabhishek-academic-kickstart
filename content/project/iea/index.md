@@ -1,6 +1,6 @@
 ---
 title: Infrastructure Enabled Autonomy (IEA)
-summary: "The objective of this project was to develop a distributed intelligence architecture for connected autonomous vehicles by offloading core computational functionalities to the infrastructure. I worked on establishing the V2V and V2I communication network using DSRC; developed machine vision capabilities like object detection, semantic segmentation, and tracking for smart-infrastructure-assisted SLAM and autonomous control for connected vehicles."
+summary: "The objective of this project was to develop a distributed intelligence architecture for Connected Autonomous Vehicles (CAV) by offloading core computational functionalities to the infrastructure. I set up the Vehicle-to-Infrastructure (V2I) and Infrastructure-to-Infrastructure (I2I) communication network using DSRC and built software stacks on smart infrastructures for object detection, tracking, semantic segmentation, and localization. Further, I calibrated the cameras and sensor systems using OpenCV and developed SLAM capabilities for RSUs by fusing IMU, camera, GPS/RTK, and odometry data using estimation filters (like Monte-Carlo and Extended Kalman Filters (EKF)) for autonomous navigation of a Lincoln MKZ vehicle."
 tags:
 - Autonomous Vehicles
 - Computer Vision
@@ -42,7 +42,25 @@ slides: ""
 ---
 
 <p>
-    <b>Location:</b> <a href="https://cast.tamu.edu/" target="_blank">CAST Program</a>, Texas A&M University - College Station, TX
+    <b>Location:</b> <a href="https://rellis.tamus.edu/" target="_blank">The Rellis campus</a>, Texas A&M University - College Station, TX
+    <b>Collaborators:</b> <a href="https://cast.tamu.edu/" target="_blank">CAST Program</a>
+</p>
+
+<h4> <b>Videos:</b> </h4>
+<p>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/s4xNCPnUPRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/eOoPIvJhj3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/iMSxPE9c2QQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/7MCkzDjaPPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</p>
+<p>
+    <iframe width="720" height="405" src="https://www.youtube.com/embed/X9t4WEsonf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 <p style="text-align:justify;">
@@ -60,19 +78,4 @@ slides: ""
         <li>Ravipati, D., Chour, K., Nayak, A., Marr, T., Dey, S., Gautam, A., ... & Swaminathan, G. (2019, October). Vision Based Localization for Infrastructure Enabled Autonomy. In 2019 IEEE Intelligent Transportation Systems Conference (ITSC) (pp. 1638-1643). IEEE.</li>
         <li>Gopalswamy, S., & Rathinam, S. (2018, June). Infrastructure enabled autonomy: A distributed intelligence architecture for autonomous vehicles. In 2018 IEEE Intelligent Vehicles Symposium (IV) (pp. 986-992). IEEE.</li>
     </ol>
-</p>
-<p>
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/s4xNCPnUPRg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<p>
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/eOoPIvJhj3k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<p>
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/iMSxPE9c2QQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<p>
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/7MCkzDjaPPY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
-<p>
-    <iframe width="720" height="405" src="https://www.youtube.com/embed/X9t4WEsonf0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>

@@ -1,6 +1,6 @@
 ---
 title: Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV)
-summary: The objective of this project was to develop response protocols for an autonomous vehicle when it senses the presence of emergency vehicles using sound, vision, and other onboard sensors. As part of the project, I developed a public image dataset for Emergency vehicles (EV); trained object detection, classification, and tracking models developed using scikit-learn and Keras, and implemented SLAM for control of the autonomous vehicle in the presence of emergency responders.
+summary: The objective of this project was to develop response protocols for autonomous vehicles to safely respond to different classes of emergency vehicles using fused data from sound, vision, and other onboard sensors. As a part of this project, I generated an Emergency Vehicle (EV) image dataset and trained computer vision models to identify and localize EVs in crowded environments. I trained ML models using decision trees, nearest neighbors, boosting, and SVM on different feature vectors to perform EV classification and implemented Spatio-temporal multi-object tracking algorithms to track EVs in video sequences. Finally, we formulated two distinct frameworks for the response protocol of an autonomous vehicle in emergency scenarios.
 tags:
 - Autonomous Vehicles
 - Computer Vision
@@ -56,30 +56,6 @@ slides: ""
 <!-- <p>
     <b>Location:</b> Texas A&M Transportation Institute (TTI) - College Station, TX
 </p> -->
-<p>
-    <h4>Abstract:</h4>
-    The objective of this project is to explore an ideal response action of an autonomous vehicle towards response vehicles in emergency scenarios using vision, sound and other sensors. I developed vision-based algorithms to reliably detect and track emergency vehicles from a video feed using image processing, machine learning, deep neural networks and other computer vison techniques.
-</p>
-<p>
-    <b><a href="https://sites.google.com/tamu.edu/ravev/" target="_blank">Visit Project Website</a></b> 
-</p>
-<p>
-    This was a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
-</p>
-<p> 
-    Follow this <a href="https://www.vtti.vt.edu/utc/safe-d/index.php/projects/response-of-autonomous-vehicles-to-emergency-response-vehicles/" target="_blank">link</a> to view the project on Safe-D Website.
-</p>
-<p>
-    The final report of the project can be viewed <a href="https://safed.vtti.vt.edu/wp-content/uploads/2020/08/03-051_FinalResearchReport_Final.pdf" target="_blank">here</a>.
-</p>
-<p>
-    <h4>References:</h4>
-    <ul>
-        <li>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.</li>
-        <li>Nayak, A., Rathinam, S., & Gopalswamy, S. (2020). Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV) (No. 03-051).</li>
-    </ul>
-</p>
-
 <h4> <b>Videos:</b> </h4>
 <p style="text-align:center; line-height:80%" > 
     <iframe width="720" height="405" src="https://www.youtube.com/embed/ILjxfTvve_M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -94,3 +70,29 @@ slides: ""
     <iframe width="720" height="405" src="https://www.youtube.com/embed/RnoCnT-sKZ0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <small> <b> High-speed lane change:</b> This video shows in action the high speed vehicle controller developed as a part of the RAVEV project. This video was collected at RELLIS campus facility of Texas A&M University. </small>
 </p>
+
+<p style="text-align:center">
+    <h4><b><a href="https://sites.google.com/tamu.edu/ravev/" target="_blank">Visit Project Website here</a></b></h4>
+</p>
+
+<p>
+    <h4>Abstract:</h4>
+    The objective of this project is to explore an ideal response action of an autonomous vehicle towards response vehicles in emergency scenarios using vision, sound and other sensors. I developed vision-based algorithms to reliably detect and track emergency vehicles from a video feed using image processing, machine learning, deep neural networks and other computer vison techniques.
+</p>
+<p>
+    This was a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
+</p>
+<p> 
+    Follow this <a href="https://www.vtti.vt.edu/utc/safe-d/index.php/projects/response-of-autonomous-vehicles-to-emergency-response-vehicles/" target="_blank">link</a> to view the Safe-D project website.
+</p>
+<p>
+    The final SAFE-D report can be viewed <a href="https://safed.vtti.vt.edu/wp-content/uploads/2020/08/03-051_FinalResearchReport_Final.pdf" target="_blank">here</a>.
+</p>
+<p>
+    <h4>References:</h4>
+    <ul>
+        <li>Nayak, A., Gopalswamy, S., & Rathinam, S. (2019). Vision-Based Techniques for Identifying Emergency Vehicles (No. 2019-01-0889). SAE Technical Paper.</li>
+        <li>Nayak, A., Rathinam, S., & Gopalswamy, S. (2020). Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV) (No. 03-051).</li>
+    </ul>
+</p>
+
