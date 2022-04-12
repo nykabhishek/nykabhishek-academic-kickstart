@@ -1,6 +1,6 @@
 ---
 title: Robotic motion planning algorithms in presence of obstacles
-summary: In this work, I worked on developing optimized algorithms to establish bounds on paths of curvature-constrained vehicles in the presence of obstacles.
+summary: In this work, I worked on developing optimized algorithms to establish bounds on paths of motion-constrained vehicles in the presence of obstacles.
 tags:
 - Motion Planning
 - Algorithms
