@@ -32,7 +32,7 @@ url_video: ""
 slides: ""
 ---
 
-<b>Location:</b> Autonomous Systems Laboratory (https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
+<b>Location:</b> [Autonomous Systems Laboratory](https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
 
 <!-- <p>
     <iframe width="720" height="405" src="https://www.youtube.com/embed/0Qlv_Cc4pwY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -40,5 +40,5 @@ slides: ""
 
 
 <p>
-    <b>Collaborators:</b> Satyanarayana G Manyam (https://scholar.google.com/citations?user=biUXytYAAAAJ&hl=en&oi=ao)
+    <b>Collaborators:</b> [Satyanarayana G Manyam](https://scholar.google.com/citations?user=biUXytYAAAAJ&hl=en&oi=ao)
 </p>

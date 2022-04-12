@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Research Assistant at Autonomous Systems Laboratory"
+  title = "Graduate Researcher at Autonomous Systems Laboratory"
   company = "Texas A&M Engineering Experiment Station (TEES)"
   company_url = "https://autonomy.engr.tamu.edu/"
   location = "College Station, TX"
@@ -27,10 +27,10 @@ date_format = "Jan 2006"
   description = """
   Projects:
   
-  * Robotic path planning algorithms in presence of obstacle.
-  * Heuristics and Reinforcement learning models for curvature constrained vehicle routing problems.
+  * Heuristics and Reinforcement learning models for motion constrained multi-agent vehicle routing problems.
   * Infrastructure Enabled Autonomy (IEA). 
   * Multi-Agent SLAM, motion planning, and navigation using ROSBots. 
+  * Motion planning algorithms for robots in the presence of obstacles.
   * Simultaneous Localization and Mapping (SLAM) in a crowded urban environment using UrbanNav Dataset. 
   * Low-cost drive-by-wire system for Ford focus. 
   * Lyft Motion Prediction for Autonomous Vehicles.
@@ -53,7 +53,7 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Member R&D - Powertrain Group"
+  title = "Member R&D - Powertrains"
   company = "TVS Motor Company Ltd."
   company_url = "https://www.tvsmotor.com/"
   location = "Hosur, TN, India"

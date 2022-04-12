@@ -24,12 +24,12 @@ bio: Passionate researcher working on Safe & Connected Autonomous Vehicles.
 
 
 interests:
-- Autonomous vehicles
-- Motion planning Algorithms
-- Computer vision
 - Artificial Intelligence
+- Autonomous Vehicles
+- Computer Vision
 - Machine Learning
-- Reinforcement Learning
+- Motion Planning
+- Robotics
 
 education:
   courses:
@@ -88,9 +88,13 @@ user_groups:
 
   I am Abhishek Nayak, a Ph.D. candidate in the Department of Mechanical Engineering at Texas A&M University, where I work as a Graduate Research Assistant with the [Autonomous Systems Laboratory](https://autonomy.engr.tamu.edu/). My research explores 'Planning and Vision-based methods for Autonomous Vehicles.' I am an advocate of safe transportation and am currently working with the Texas A&M Transportation Institute on [SAFE-D](https://safed.vtti.vt.edu/) projects that aim at improving standards of road safety. Previously, for my Master's research, I worked on developing vision-based safe response protocols for autonomous vehicles towards emergency response vehicles.
 
-  My research interests broadly include - 1) Perception Models for Mobile Robots, 2) Heuristics and Optimization for Task Allocation and Motion Planning, and 3) Learning-based methods for constrained Motion Planning. During my time at Texas A&M, I was able to explore these topics (and beyond) in-depth and gain practical knowledge by applying my research for field-experiments on an autonomous Lincoln MKZ vehicle [(a teaser)](https://youtu.be/gh0g5iAuruw). I am also an experienced industry professional and have worked in the automotive industry for three years as an R&D Engineer in the powertrains section of [TVS Motor Company, India](https://www.tvsmotor.com/).
+  My research interests broadly include - 1) Perception for autonomous agents, 2) Heuristics and Learning-based methods for task allocation and motion planning, and 3) Distributed autonomoy using infrastructure . During my time at Texas A&M, I was able to explore these topics (and beyond) in-depth and gain practical knowledge by applying my research for field-experiments on an autonomous Lincoln MKZ vehicle [(a teaser)](https://youtu.be/gh0g5iAuruw). I have spent some time in the automotive industry, working for [TVS Motor Company, India](https://www.tvsmotor.com/) for three years as an R&D Engineer in their powertrains section.
 
   Besides academics, I enjoy playing tennis, running, cooking, and traveling.
+
+  <p>
+    <iframe width="560" height="315" src="https://youtu.be/gh0g5iAuruw" title="Autonomous Systems Laboratory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </p>
 
   <!-- I work on developing solutions for sensing and planning problems in autonomous vehicles and smart infrastructures.  -->
   
