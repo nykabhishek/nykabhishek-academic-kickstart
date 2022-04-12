@@ -93,7 +93,7 @@ user_groups:
   Besides academics, I enjoy playing tennis, running, cooking, and traveling.
 
   <p>
-    <iframe width="560" height="315" src="https://youtu.be/gh0g5iAuruw" title="Autonomous Systems Laboratory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/gh0g5iAuruw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
   <!-- I work on developing solutions for sensing and planning problems in autonomous vehicles and smart infrastructures.  -->

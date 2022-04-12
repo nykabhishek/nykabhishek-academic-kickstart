@@ -40,5 +40,5 @@ slides: ""
 
 
 <p>
-    <b>Collaborators:</b> [Satyanarayana G Manyam](https://scholar.google.com/citations?user=biUXytYAAAAJ&hl=en&oi=ao)
+    <b>Collaborators:</b> [Satyanarayana G Manyam](https://scholar.google.com/citations?user=biUXytYAAAAJ&hl=en)
 </p>
