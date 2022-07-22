@@ -35,7 +35,10 @@ slides: ""
 
 <b>Location:</b> Autonomous Systems Laboratory (https://autonomy.engr.tamu.edu/), Texas A&M University - College Station, TX
 
-As a part of this work, I developed graph search heuristics, formulated mixed-Integer programs (MIP), trained graph CNNs, and reinforcement learning (RL) models to solve min-max task assignment problems for a fleet of non-holonomic vehicles curvature-constrained multi-vehicle routing problems. A comparative study was performed to evaluate performance on different metaheuristics, primarily the Variable Neighborhood Search (VNS). The reinforcement learning (RL) models and graph CNNs are implemented and trained using PyTorch. The MIP formulations were solved using CPLEX and gurobi solvers on high-performance computing servers.
+<p style="text-align:justify;">
+
+  As a part of this work, I developed graph search heuristics, formulated mixed-Integer programs (MIP), trained graph CNNs, and reinforcement learning (RL) models to solve min-max task assignment problems for a fleet of non-holonomic vehicles curvature-constrained multi-vehicle routing problems. A comparative study was performed to evaluate performance on different metaheuristics, primarily the Variable Neighborhood Search (VNS). The reinforcement learning (RL) models and graph CNNs are implemented and trained using PyTorch. The MIP formulations were solved using CPLEX and gurobi solvers on high-performance computing servers.
+</p>
 
 <p>
     <h4> Work in progress... Watch this space for more updates </h4>

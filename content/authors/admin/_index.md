@@ -92,7 +92,7 @@ user_groups:
 
   Besides academics, I enjoy playing tennis, running, cooking, and traveling.
 
-  <p>
+  <p style="text-align:justify;">
     <iframe width="560" height="315" src="https://www.youtube.com/embed/gh0g5iAuruw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
 
