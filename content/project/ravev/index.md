@@ -1,6 +1,6 @@
 ---
 title: Response of Autonomous Vehicles to Emergency Response Vehicles (RAVEV)
-summary: The objective of this project was to develop response protocols for autonomous vehicles to safely respond to different classes of emergency vehicles using fused data from sound, vision, and other onboard sensors. As a part of this project, I generated an Emergency Vehicle (EV) image dataset and trained computer vision models to identify and localize EVs in crowded environments. I trained ML models using decision trees, nearest neighbors, boosting, and SVM on different feature vectors to perform EV classification and implemented Spatio-temporal multi-object tracking algorithms to track EVs in video sequences. Finally, we formulated two distinct frameworks for the response protocol of an autonomous vehicle in emergency scenarios. 
+summary: "Methods and response protocols for autonomous vehicles to safely respond to different classes of emergency vehicles using fused data from sound, vision, and other onboard sensors." 
 tags:
 - Autonomous Vehicles
 - Computer Vision
@@ -78,6 +78,8 @@ slides: ""
 <p>
     <h4>Abstract:</h4>
     The objective of this project is to explore an ideal response action of an autonomous vehicle towards response vehicles in emergency scenarios using vision, sound and other sensors. I developed vision-based algorithms to reliably detect and track emergency vehicles from a video feed using image processing, machine learning, deep neural networks and other computer vison techniques.
+
+    The objective of this project was to develop response protocols for autonomous vehicles to safely respond to different classes of emergency vehicles using fused data from sound, vision, and other onboard sensors. As a part of this project, I generated an Emergency Vehicle (EV) image dataset and trained computer vision models to identify and localize EVs in crowded environments. I trained ML models using decision trees, nearest neighbors, boosting, and SVM on different feature vectors to perform EV classification and implemented Spatio-temporal multi-object tracking algorithms to track EVs in video sequences. Finally, two distinct frameworks for the response protocol of an autonomous vehicle in emergency scenarios were proposed.
 </p>
 <p>
     This was a Safe-D UTC sponsored project <a href="https://rip.trb.org/view/1500797/" target="_blank">(https://rip.trb.org/view/1500797)</a>.
