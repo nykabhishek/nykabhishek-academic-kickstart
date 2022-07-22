@@ -1,6 +1,6 @@
 ---
 title: Reference Machine Vision for ADAS functions
-summary: The objective of this project was to develop a reference system for lane detection (LD) that will provide a benchmark for evaluating different lane markings, sensors, and perception algorithms. I generated an extensive lane detection (LD) dataset by driving on various roads in Central Texas with changing weather conditions, time of day, pavement marking quality, and pavement materials. Further, I studied the relationship between lane marking quality and LD algorithm performance used in ADAS using statistical methods to propose a reference test system for state agencies and OEMs to benchmark lane marking quality and its effect on LD performance.
+summary: "A reference system for evaluating different lane markings, pavement materials, and perception algorithms used in ADAS"
 tags:
 - Deep Learning
 - Computer Vision
@@ -61,7 +61,7 @@ slides: ""
     <b>Abstract:</b>
     Studies have shown that fatalities due to unintentional roadway departures can be significantly reduced if Lane Departure Warning (LDW) and Lane Keep Assist (LKA) systems are used effectively. However, these systems are not yet popular because the systems are not robust due, in part to the lack of suitable standards for pavement markings that enable reliable functionality of the sensor system. 
     <br>
-    The objective of this project is to develop a reference Lane Detection (LD) system that will provide a benchmark for evaluating different lane markings, sensors, and perception algorithms. The goal of the project is to create a system that will validate the effectiveness of lane markings as well as the vision algorithms through a systematic development of LD metrics, and testing procedures for LD algorithms.
+    The objective of this project was to develop a reference system for lane detection (LD) that will provide a benchmark for evaluating different lane markings, pavements and perception algorithms. The goal of the project is to create a system that will validate the effectiveness of lane markings and the vision algorithms through a systematic development of LD metrics, and testing procedures for LD algorithms. I generated an extensive lane detection (LD) dataset by driving on various roads in Central Texas with changing weather conditions, time of day, pavement marking quality, and pavement materials. Further, I studied the relationship between lane marking quality and LD algorithm performance used in ADAS using statistical methods to propose a reference test system for state agencies and OEMs to benchmark lane marking quality and its effect on LD performance.
 </p>
 
 <p> 
