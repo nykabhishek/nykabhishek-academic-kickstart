@@ -20,7 +20,7 @@ organizations:
   url: "https://autonomy.engr.tamu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Passionate researcher working on Safe & Connected Autonomous Vehicles.
+bio: Passionate researcher working on Safe & Connected Autonomy.
 
 
 interests:
@@ -34,10 +34,10 @@ interests:
 education:
   courses:
   - course: PhD in Mechanical Engineering
-    institution: Texas A&M University, College Station - TX
+    institution: Texas A&M University, College Station
     year: 2022
   - course: MS in Mechanical Engineering
-    institution: Texas A&M University, College Station - TX
+    institution: Texas A&M University, College Station
     year: 2019
   - course: BTech in Mechanical Engineering
     institution: National Institute of Technology Karnataka (NITK), Surathkal - India

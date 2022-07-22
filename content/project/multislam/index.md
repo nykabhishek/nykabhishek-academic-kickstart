@@ -1,6 +1,6 @@
 ---
 title: Multi-Agent SLAM and navigation using ROSBot
-summary: "Navigation using a team of robots in an indoor environment with obtacles"
+summary: "Navigation using a team of robots in an indoor environment with obtacles."
 tags:
 - Motion Planning
 - Algorithms
