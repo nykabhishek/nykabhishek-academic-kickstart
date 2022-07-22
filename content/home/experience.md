@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "Graduate Researcher at Autonomous Systems Laboratory"
+  title = "Graduate Research Assistant"
   company = "Texas A&M Engineering Experiment Station (TEES)"
   company_url = "https://autonomy.engr.tamu.edu/"
   location = "College Station, TX"
@@ -65,7 +65,8 @@ date_format = "Jan 2006"
   <!-- * Involved in new product development and performed Design Reviews (TDR), Engineering Change Management (ECM), Product Benchmarking, DFX, DFMEA, Patent Survey, Value Engineering (VA/VE). -->
   <!-- * Involved in design & development of concept VVT engines, Cam-phaser camshaft & Internal-EGR Concepts for 125cc to 200cc capacity engines to achieve target performance, improve fuel economy (about 10%) and meet EU IV emission standards. -->
   * Developed mathematical models of powertrain components using MATLAB and performed HIL testing and verification.  
-  * Designed powertrain components using CAD design software, investigated system dynamics, and performed performance testing on TVS & BMW Engines.  
+  * Designed powertrain components using CAD design software, investigated system dynamics, and performed performance testing on TVS & BMW Engines. 
+  * Collaborated with cross-functional teams on new product development; handled sensor procurement by interacting with suppliers. 
   """
 
 [[experience]]

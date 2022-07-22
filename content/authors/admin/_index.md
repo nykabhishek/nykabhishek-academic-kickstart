@@ -84,7 +84,7 @@ user_groups:
 
 <div style="text-align: justify">
 
-  Hi! Welcome to my webpage. 
+  **Hello!** 
 
   I am Abhishek Nayak, a Ph.D. candidate in the Department of Mechanical Engineering at Texas A&M University, where I work as a Graduate Research Assistant in the [Autonomous Systems Laboratory](https://autonomy.engr.tamu.edu/). My research explores 'Planning and Vision-based methods for Autonomous Vehicles.' I am passionate about safe transportation and am currently working with the Texas A&M Transportation Institute on [SAFE-D](https://safed.vtti.vt.edu/) projects that aim to improve road safety standards. Previously, for my Master's research, I worked on developing vision-based safe response protocols for autonomous vehicles towards emergency response vehicles.
 
