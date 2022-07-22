@@ -1,6 +1,6 @@
 ---
 title: Low-cost drive-by-wire system for Ford Focus
-summary: I worked in a team of 3 to develop prototypes of a low-cost drive-by-wire system to control a Ford Focus vehicle via sensor emulation using Arduino Mega.
+summary: A low-cost drive-by-wire system to control a Ford Focus vehicle via sensor emulation using Arduino Mega.
 tags:
 - Autonomous Vehicles
 - Sensor Fusion
@@ -32,6 +32,8 @@ slides: ""
 ---
 
 <b>Location:</b> CAST Program (https://cast.tamu.edu/), Texas A&M University - College Station, TX
+
+I worked in a team of 3 to develop prototypes of a low-cost drive-by-wire system to control a Ford Focus vehicle via sensor emulation using Arduino Mega.
 
 <p>
     <img src='/images/focus_circuit.jpg'>

@@ -21,6 +21,16 @@ date_format = "Jan 2006"
 [[item]]
   organization = "Coursera"
   organization_url = "https://www.coursera.org"
+  title = "Self-Driving Cars Specialization"
+  url = "https://www.coursera.org/specializations/self-driving-cars"
+  certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/YKQ52BH7J993"
+  date_start = "2022-04-20"
+  date_end = ""
+  description = ""
+
+[[item]]
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
   title = "Deep Learning Specialization"
   url = "https://www.coursera.org/specializations/deep-learning"
   certificate_url = "https://www.coursera.org/account/accomplishments/specialization/certificate/PZRPRTSRHHWW"
